@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KimJongjae1/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
 ## String
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KimJongjae1/LeetCode/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KimJongjae1/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 <!---LeetCode Topics End-->
