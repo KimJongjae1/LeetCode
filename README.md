@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0052-n-queens-ii) |
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
