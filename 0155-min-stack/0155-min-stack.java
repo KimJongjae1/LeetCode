@@ -1,28 +1,33 @@
 class MinStack {
-    private Stack<Integer> stack;
-    private Stack<Integer> minStack;
-
+    Stack<Integer> stack;
+    TreeMap<Integer,Integer> map;
+    int min;
     public MinStack() {
-        stack = new Stack<>();
-        minStack = new Stack<>();
+        map=new TreeMap<>();
+        stack=new Stack<>();
+        min=Integer.MAX_VALUE;
     }
     
-    public void push(int val) {
-        stack.push(val);
-        if (minStack.isEmpty()) {
-            minStack.push(val);
-        } else {
-            if (val <= minStack.peek()) {
-                minStack.push(val);
-            }
-        }
+    public void push(int value) {
+        stack.push(value);
+        if(min>value)min=value;
+        map.putIfAbsent(value,0);
+        map.put(value,map.get(value)+1);
     }
     
     public void pop() {
-        if (stack.peek().equals(minStack.peek())) {
-            minStack.pop();
+        int n=stack.pop();
+        int cnt=map.get(n);
+        if(cnt==1)map.remove(n);
+        else map.put(n,cnt-1);
+
+        if(n==min&&!map.containsKey(n)){
+            if(map.size()==0){
+                min=Integer.MAX_VALUE;
+                return;
+            }
+            min=map.ceilingKey(Integer.MIN_VALUE);
         }
-        stack.pop();
     }
     
     public int top() {
@@ -30,7 +35,7 @@ class MinStack {
     }
     
     public int getMin() {
-        return minStack.peek();
+        return min;
     }
 }
 
