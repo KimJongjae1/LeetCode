@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KimJongjae1/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KimJongjae1/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
 ## Stack
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KimJongjae1/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KimJongjae1/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
