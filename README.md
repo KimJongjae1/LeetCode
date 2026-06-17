@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KimJongjae1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/KimJongjae1/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/KimJongjae1/LeetCode/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KimJongjae1/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/KimJongjae1/LeetCode/tree/master/0086-partition-list) |
 ## Monotonic Stack
 |  |
 | ------- |
