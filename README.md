@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/KimJongjae1/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KimJongjae1/LeetCode/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KimJongjae1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
