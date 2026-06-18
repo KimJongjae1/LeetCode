@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KimJongjae1/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/KimJongjae1/LeetCode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/KimJongjae1/LeetCode/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/KimJongjae1/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KimJongjae1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/KimJongjae1/LeetCode/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/KimJongjae1/LeetCode/tree/master/0189-rotate-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/KimJongjae1/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
