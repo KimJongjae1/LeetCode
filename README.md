@@ -71,15 +71,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KimJongjae1/LeetCode/tree/master/0146-lru-cache) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
