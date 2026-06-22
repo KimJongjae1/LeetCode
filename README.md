@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KimJongjae1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/KimJongjae1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/KimJongjae1/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/KimJongjae1/LeetCode/tree/master/0086-partition-list) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KimJongjae1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/KimJongjae1/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Divide and Conquer
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KimJongjae1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/KimJongjae1/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
