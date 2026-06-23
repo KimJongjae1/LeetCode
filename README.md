@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KimJongjae1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/KimJongjae1/LeetCode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/KimJongjae1/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/KimJongjae1/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/KimJongjae1/LeetCode/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sliding Window
 |  |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/KimJongjae1/LeetCode/tree/master/0139-word-break) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
