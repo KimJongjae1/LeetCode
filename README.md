@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/KimJongjae1/LeetCode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/KimJongjae1/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/KimJongjae1/LeetCode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KimJongjae1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KimJongjae1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KimJongjae1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/KimJongjae1/LeetCode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KimJongjae1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KimJongjae1/LeetCode/tree/master/0189-rotate-array) |
 ## Monotonic Stack
@@ -194,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
