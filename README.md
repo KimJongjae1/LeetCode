@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/KimJongjae1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/KimJongjae1/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KimJongjae1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/KimJongjae1/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KimJongjae1/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/KimJongjae1/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/KimJongjae1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/KimJongjae1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/KimJongjae1/LeetCode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/KimJongjae1/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/KimJongjae1/LeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/KimJongjae1/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/KimJongjae1/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KimJongjae1/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/KimJongjae1/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/KimJongjae1/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KimJongjae1/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
