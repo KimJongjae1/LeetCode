@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KimJongjae1/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/KimJongjae1/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KimJongjae1/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/KimJongjae1/LeetCode/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/KimJongjae1/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
