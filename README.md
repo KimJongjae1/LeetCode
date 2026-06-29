@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KimJongjae1/LeetCode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/KimJongjae1/LeetCode/tree/master/0383-ransom-note) |
 ## Backtracking
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KimJongjae1/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/KimJongjae1/LeetCode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -242,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KimJongjae1/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/KimJongjae1/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
