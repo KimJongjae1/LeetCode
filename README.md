@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KimJongjae1/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KimJongjae1/LeetCode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/KimJongjae1/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Randomized
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/KimJongjae1/LeetCode/tree/master/0068-text-justification) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/KimJongjae1/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Geometry
 |  |
 | ------- |
