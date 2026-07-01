@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KimJongjae1/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/KimJongjae1/LeetCode/tree/master/0383-ransom-note) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/KimJongjae1/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KimJongjae1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KimJongjae1/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KimJongjae1/LeetCode/tree/master/0202-happy-number) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/KimJongjae1/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/KimJongjae1/LeetCode/tree/master/0068-text-justification) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/KimJongjae1/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/KimJongjae1/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Geometry
 |  |
 | ------- |
