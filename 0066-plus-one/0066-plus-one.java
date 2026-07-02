@@ -1,35 +1,18 @@
 class Solution {
     public int[] plusOne(int[] digits) {
-        String str="";
-        for(int i=0;i<digits.length;i++){
-            str+=digits[i];
-        }
-        char[] temp=str.toCharArray();
-        int idx=temp.length-1;
-        while(idx>=0){
-            int n=temp[idx]-'0';
-            if(n==9){
-                temp[idx]='0';
+        
+        for(int i=digits.length-1;i>=0;i--){
+
+            if(digits[i]<9){
+                digits[i]++;
+                return digits;
             }else{
-                temp[idx]=(char)(temp[idx]+1);    
-                break;
+                digits[i]=0;
             }
-            idx--;
         }
-        int[] ans;
-        if(idx<0){
-            ans=new int[temp.length+1];
-            Arrays.fill(ans,0);
-            ans[0]=1;
-            return ans;
-        }else{
-            ans=new int[temp.length];
-        }
-
-        for(int i=0;i<temp.length;i++){
-            ans[i]=temp[i]-'0';
-        }
-
+        
+        int[] ans=new int[digits.length+1];
+        ans[0]=1;
         return ans;
     }
 }
