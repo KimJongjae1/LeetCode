@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KimJongjae1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/KimJongjae1/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/KimJongjae1/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/KimJongjae1/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/KimJongjae1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KimJongjae1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/KimJongjae1/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KimJongjae1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/KimJongjae1/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KimJongjae1/LeetCode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/KimJongjae1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/KimJongjae1/LeetCode/tree/master/0189-rotate-array) |
