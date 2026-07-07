@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/KimJongjae1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/KimJongjae1/LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/KimJongjae1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
