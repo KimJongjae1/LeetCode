@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KimJongjae1/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/KimJongjae1/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/KimJongjae1/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/KimJongjae1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/KimJongjae1/LeetCode/tree/main/0120-triangle/) | Medium |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KimJongjae1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/KimJongjae1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/KimJongjae1/LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/KimJongjae1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KimJongjae1/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KimJongjae1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/KimJongjae1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KimJongjae1/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
