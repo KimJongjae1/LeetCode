@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KimJongjae1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KimJongjae1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/KimJongjae1/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/KimJongjae1/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KimJongjae1/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/KimJongjae1/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/KimJongjae1/LeetCode/tree/master/0127-word-ladder) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KimJongjae1/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KimJongjae1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KimJongjae1/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/KimJongjae1/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KimJongjae1/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KimJongjae1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/KimJongjae1/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KimJongjae1/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KimJongjae1/LeetCode/tree/master/0068-text-justification) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/KimJongjae1/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/KimJongjae1/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KimJongjae1/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/KimJongjae1/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KimJongjae1/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/KimJongjae1/LeetCode/tree/master/0222-count-complete-tree-nodes) |
