@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/KimJongjae1/LeetCode/tree/master/0399-evaluate-division) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KimJongjae1/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## String
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KimJongjae1/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/KimJongjae1/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/KimJongjae1/LeetCode/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KimJongjae1/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KimJongjae1/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KimJongjae1/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KimJongjae1/LeetCode/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KimJongjae1/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Simulation
 |  |
 | ------- |
