@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KimJongjae1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0052-n-queens-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KimJongjae1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/KimJongjae1/LeetCode/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/KimJongjae1/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KimJongjae1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KimJongjae1/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Prefix Sum
 |  |
