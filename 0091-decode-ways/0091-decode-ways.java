@@ -6,39 +6,24 @@ class Solution {
         if(s.charAt(0)=='0')return 0;
         if(s.length()==1) return 1;
 
-        int temp=Integer.parseInt(s.substring(0,2));
-        if(temp>20&&s.charAt(1)=='0')return 0;
-        if(temp<=26&&s.charAt(1)!='0')dp[1]=2;
-        else dp[1]=1;
 
-        
-        for(int i=2;i<s.length();i++){
+        for(int i=1;i<s.length();i++){
             char a=s.charAt(i);
             
 
             int n=a-'0';
 
-            int before=s.charAt(i-1)-'0';
-            if(n==0){
-                if(before==0||before>=3)return 0;
-                dp[i]=dp[i-2];
-                continue;
-                
+            if(n!=0){
+                dp[i]=dp[i-1];
             }
+  
+            int temp=Integer.parseInt(s.substring(i-1,i+1));
 
-            dp[i]=dp[i-1];
-            if(before==0) continue;
-            
-            if(n<=6){
-                if(before<=2){
-                    dp[i]+=dp[i-2];
-                }
-            }else{
-                
-                if(before<=1){
-                    dp[i]+=dp[i-2];
-                }
+            if(temp>=10&&temp<=26){
+                if(i>1)dp[i]+=dp[i-2];
+                else dp[i]+=1;
             }
+            
         }
         return dp[s.length()-1];
     }
