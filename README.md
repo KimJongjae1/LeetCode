@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/KimJongjae1/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/KimJongjae1/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/KimJongjae1/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/KimJongjae1/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/KimJongjae1/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/KimJongjae1/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/KimJongjae1/LeetCode/tree/master/0139-word-break) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KimJongjae1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/KimJongjae1/LeetCode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/KimJongjae1/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/KimJongjae1/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KimJongjae1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
