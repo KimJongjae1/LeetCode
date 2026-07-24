@@ -412,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KimJongjae1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/KimJongjae1/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
