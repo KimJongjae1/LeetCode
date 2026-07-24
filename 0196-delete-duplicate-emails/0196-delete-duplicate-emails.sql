@@ -1,0 +1,9 @@
+# Write your MySQL query statement below
+DELETE P
+FROM PERSON P
+JOIN (SELECT MIN(ID) AS MIN_ID,EMAIL
+      FROM PERSON 
+      GROUP BY EMAIL
+     ) P2
+  ON P2.EMAIL=P.EMAIL
+WHERE P2.MIN_ID !=P.ID 
