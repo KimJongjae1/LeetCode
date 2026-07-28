@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/KimJongjae1/LeetCode/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KimJongjae1/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## String
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/KimJongjae1/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Tree
 |  |
 | ------- |
