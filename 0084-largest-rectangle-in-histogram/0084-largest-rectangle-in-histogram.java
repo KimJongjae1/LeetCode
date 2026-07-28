@@ -5,7 +5,7 @@ class Solution {
          for(int i=0;i<=heights.length;i++){
             int H=0;
             if(i<heights.length)H=heights[i];
-            
+
             while(!stack.isEmpty()&&heights[stack.peek()]>H){
                 int h=heights[stack.pop()];
 
