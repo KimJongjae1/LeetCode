@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/KimJongjae1/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/KimJongjae1/LeetCode/tree/master/0399-evaluate-division) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KimJongjae1/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/KimJongjae1/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Backtracking
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KimJongjae1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/KimJongjae1/LeetCode/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KimJongjae1/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/KimJongjae1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KimJongjae1/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/KimJongjae1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KimJongjae1/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Greedy
 |  |
 | ------- |
