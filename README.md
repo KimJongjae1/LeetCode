@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/KimJongjae1/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KimJongjae1/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/KimJongjae1/LeetCode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/KimJongjae1/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KimJongjae1/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KimJongjae1/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/KimJongjae1/LeetCode/tree/master/0224-basic-calculator) |
+| [0279-perfect-squares](https://github.com/KimJongjae1/LeetCode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KimJongjae1/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/KimJongjae1/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Randomized
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/KimJongjae1/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/KimJongjae1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/KimJongjae1/LeetCode/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/KimJongjae1/LeetCode/tree/master/0399-evaluate-division) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/KimJongjae1/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
@@ -458,4 +461,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KimJongjae1/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KimJongjae1/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KimJongjae1/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
