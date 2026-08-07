@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KimJongjae1/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/KimJongjae1/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/KimJongjae1/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/KimJongjae1/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/KimJongjae1/LeetCode/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KimJongjae1/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/KimJongjae1/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/KimJongjae1/LeetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/KimJongjae1/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/KimJongjae1/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/KimJongjae1/LeetCode/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/KimJongjae1/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/KimJongjae1/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/KimJongjae1/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/KimJongjae1/LeetCode/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
