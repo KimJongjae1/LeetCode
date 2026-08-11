@@ -1,29 +1,30 @@
 class Solution {
-    static Set<Character> set;
-    static int ans;
     public int lengthOfLongestSubstring(String s) {
-        set=new HashSet<>();
-        ans=0;
-        find(0,0,s);
-        return ans;
-    }
-    public static void find(int left,int right,String s){
-
-        int cnt=0;
+        if(s.length()==0)return 0;
+        
+        int left=0;
+        int right=1;
+        int ans=1;
+        Map<Character,Integer> map=new HashMap<>();
+        map.put(s.charAt(left),1);
         while(right<s.length()){
-            char temp=s.charAt(right);
-            
-            while(set.contains(temp)){
-                set.remove(s.charAt(left++));
-                cnt--;
-            }
-           
-            set.add(temp);
-            cnt++;
+            char a=s.charAt(right);
+            int n=map.getOrDefault(a,0)+1;
             right++;
-            
-            ans=Math.max(ans,cnt);
+
+            if(n>1){
+                while(n>1){
+                    char A=s.charAt(left);
+                    int N=map.get(A);
+                    map.put(A,N-1);
+                    if(A==a)n--;
+                    left++;
+                }
+            }
+            map.put(a,1);
+            ans=Math.max(ans,right-left);
 
         }
-    }  
+        return ans;
+    }
 }
