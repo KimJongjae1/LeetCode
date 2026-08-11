@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/KimJongjae1/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/KimJongjae1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KimJongjae1/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/KimJongjae1/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KimJongjae1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/KimJongjae1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/KimJongjae1/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/KimJongjae1/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/KimJongjae1/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/KimJongjae1/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/KimJongjae1/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/KimJongjae1/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/KimJongjae1/LeetCode/tree/master/0127-word-ladder) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/KimJongjae1/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/KimJongjae1/LeetCode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
 ## Trie
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KimJongjae1/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/KimJongjae1/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/KimJongjae1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/KimJongjae1/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/KimJongjae1/LeetCode/tree/master/0221-maximal-square) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KimJongjae1/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KimJongjae1/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KimJongjae1/LeetCode/tree/master/0101-symmetric-tree) |
