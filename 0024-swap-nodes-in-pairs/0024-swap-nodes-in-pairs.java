@@ -12,13 +12,12 @@ class Solution {
     public ListNode swapPairs(ListNode head) {
         if(head==null)return null;
 
-        ListNode next=head.next;
-        if(next==null)return head;
+        ListNode NEXT=head.next;
+        if(NEXT==null)return head;
 
-        ListNode nextnext=next.next;
-        next.next=head;
-        head.next=swapPairs(nextnext);
-
-        return next;
+        ListNode NEXTNEXT=NEXT.next;
+        NEXT.next=head;
+        head.next=swapPairs(NEXTNEXT);
+        return NEXT;
     }
 }
