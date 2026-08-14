@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KimJongjae1/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/KimJongjae1/LeetCode/tree/master/0075-sort-colors) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -507,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KimJongjae1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KimJongjae1/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
