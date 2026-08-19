@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KimJongjae1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KimJongjae1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/KimJongjae1/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/KimJongjae1/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KimJongjae1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KimJongjae1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/KimJongjae1/LeetCode/tree/master/0072-edit-distance) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KimJongjae1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/KimJongjae1/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KimJongjae1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/KimJongjae1/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KimJongjae1/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KimJongjae1/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KimJongjae1/LeetCode/tree/master/0069-sqrtx) |
@@ -521,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KimJongjae1/LeetCode/tree/master/0075-sort-colors) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KimJongjae1/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
