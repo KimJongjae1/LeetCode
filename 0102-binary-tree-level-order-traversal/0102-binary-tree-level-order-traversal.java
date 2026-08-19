@@ -17,17 +17,19 @@ class Solution {
     static List<List<Integer>> ans;
     public List<List<Integer>> levelOrder(TreeNode root) {
         ans=new ArrayList<>();
-        DFS(root,1);
+        LEVEL(root,1);
         return ans;
     }
-    public static void DFS(TreeNode cur,int level){
-        if(cur==null)return;
+    public void LEVEL(TreeNode root,int level){
+        if(root==null)return;
 
-        if(ans.size()<level)ans.add(new ArrayList<>());
-
+        if(ans.size()<level) ans.add(new ArrayList<>());
+        
         List<Integer> list=ans.get(level-1);
-        list.add(cur.val);
-        DFS(cur.left,level+1);
-        DFS(cur.right,level+1);
+        list.add(root.val);
+        LEVEL(root.left,level+1);
+        LEVEL(root.right,level+1);
+
+
     }
 }
