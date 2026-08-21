@@ -12,19 +12,17 @@ class Solution {
     static ListNode H;
     static boolean ans;
     public boolean isPalindrome(ListNode head) {
-        H=head;
-        ans=true;
-        P(head);
-        return ans;
+       H=head;
+
+        return DFS(head);
+
     }
-    public void P(ListNode root) {
-        if(root==null)return;
-        if(!ans)return;
-        P(root.next);
-        if(root.val!=H.val){
-            ans=false;
-        }else{
-            H=H.next;
-        }
+    public static boolean DFS(ListNode head){
+        if(head==null)return true;
+
+        if(!DFS(head.next))return false;
+        if(head.val!=H.val)return false;
+        H=H.next;
+        return true;
     }
 }
